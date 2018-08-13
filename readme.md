@@ -1,7 +1,9 @@
 # mangopi
 
-[![Build Status](https://travis-ci.org/jiaweihli/mangopi.png)](https://travis-ci.org/jiaweihli/mangopi)
+[![Build Status](https://travis-ci.org/kiritofeng/mangopi.png)](https://travis-ci.org/kiritofeng/mangopi)
 [![Coverage Status](https://coveralls.io/repos/jiaweihli/mangopi/badge.png?branch=master)](https://coveralls.io/r/jiaweihli/mangopi?branch=master)
+
+Kirito's fork of the original mangopi, because reasons.
 
 mangopi aims to be an easy-to-use, easy-to-extend manga api.  Adding a new site should be as simple
 as filling in a few regexes - everything else is taken care of.
@@ -51,7 +53,7 @@ Take a look at the `mangopi.tests` module for further examples.
 
 ## Version Support
 
-Support is maintained on Python 2.7, 3.3, and 3.4.
+Support is maintained on Python 2.7, 3.5.
 
 ## Testing
 
