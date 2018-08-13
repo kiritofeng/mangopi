@@ -10,4 +10,4 @@ script:
 after_success:
   - coveralls
 notifications:
-  webhooks: https://%WEBHOOK_ENDPOINT%/travis-ci.php
+  webhooks: $WEBHOOK_URL
