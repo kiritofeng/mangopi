@@ -1,7 +1,7 @@
 # mangopi
 
 [![Build Status](https://travis-ci.org/kiritofeng/mangopi.png)](https://travis-ci.org/kiritofeng/mangopi)
-[![Coverage Status](https://coveralls.io/repos/jiaweihli/mangopi/badge.png?branch=master)](https://coveralls.io/r/jiaweihli/mangopi?branch=master)
+[![Coverage Status](https://coveralls.io/repos/kiritofeng/mangopi/badge.png?branch=master)](https://coveralls.io/r/kiritofeng/mangopi?branch=master)
 
 Kirito's fork of the original mangopi, because reasons.
 
