@@ -10,4 +10,4 @@ script:
 after_success:
   - coveralls
 notifications:
-  webhooks: $WEBHOOK_URL
+  webhooks: https://internal.kiritofeng.tk/travis-webhook/travis-ci.php
